@@ -11,6 +11,8 @@
 
 </div>
 
+[Download](https://github.com/openalgo-desktop/openalgo-desktop/releases/download/app/fastscalper.exe)
+
 **OpenAlgo Desktop** is a native, cross-platform desktop application for algorithmic trading. Built with Tauri 2.0 and Rust, it provides the same powerful features as OpenAlgo web but runs entirely on your machine - no server setup required. Your credentials are stored securely in your operating system's keychain, not in configuration files.
 
 ## Why OpenAlgo Desktop?
